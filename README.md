@@ -28,12 +28,8 @@ DStruct Is A Hub And Has All The Necessary Tools Needed For Any Hacker With 187 
 # Payload Injectors
 # Others
 
-
-
-
-
-
-#  Preview
+#  
+#  
 
 # Start Screen
 ![image](https://user-images.githubusercontent.com/90534010/161986731-f908bbb8-c26d-4b72-b9c2-21eae338dd9e.png)
