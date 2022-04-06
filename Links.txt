@@ -1,0 +1,187 @@
+#Discord Shit
+alpha_spammer = ['https://github.com/WeLoveuSyrus/Alpha-Spammer/archive/refs/heads/main.zip', 'Alpha-Spammer.zip']
+arctic_tool = ['https://github.com/WeLoveuSyrus/Artic-Tool/archive/refs/heads/main.zip', 'Arctic-Tool.zip']
+dark_tools = ['https://github.com/WeLoveuSyrus/DarkTools/archive/refs/heads/main.zip', 'DarkTools.zip']
+bleed_nuker = ['https://github.com/WeLoveuSyrus/BLEED-NUKER/archive/refs/heads/main.zip', 'Bleed-Nuker.zip']
+mass_dm_friendlist_embed = ['https://github.com/WeLoveuSyrus/MASSDM-FRIENDLIST-EMBED/archive/refs/heads/main.zip', 'Mass-DMr.zip']
+ariel_nuker = ['https://github.com/WeLoveuSyrus/ARIEL-NUKER/archive/refs/heads/main.zip', 'Ariel-Nuker.zip']
+bladee_anti_nuker = ['https://github.com/WeLoveuSyrus/Discord-Bladee-Server-Anti-Nuker/archive/refs/heads/main.zip', 'Bladee-Anti-Nuker.zip']
+venom_nuker = ['https://github.com/WeLoveuSyrus/venom-nuker/archive/refs/heads/main.zip', 'Venom-Nuker.zip']
+nuker_8300_v1 = ['https://github.com/WeLoveuSyrus/8300-NUKER-V1/archive/refs/heads/main.zip', '8300-Nuker-V1.zip']
+tno_v4_sb = ['https://github.com/WeLoveuSyrus/TNO-V4-SB/archive/refs/heads/main.zip', 'TNO-V4-SB.zip']
+server_leave_8300 = ['https://github.com/WeLoveuSyrus/serverleaver/archive/refs/heads/main.zip', 'Server-Leaver-8300.zip']
+mass_dm_bot_8300 = ['https://github.com/WeLoveuSyrus/massdm-bot/archive/refs/heads/main.zip', 'Mass-DM-Bot-8300.zip']
+acc_nuker_8300 = ['https://github.com/WeLoveuSyrus/8300-account-nuker/archive/refs/heads/main.zip', 'Account-Nuker-8300.zip']
+server_stealer = ['https://github.com/WeLoveuSyrus/server-steal/archive/refs/heads/main.zip', 'Server-Stealer.zip']
+nexus_blyat = ['https://github.com/Klapity/NexusBlyat-Nuker/archive/refs/heads/main.zip', 'NexusBlyat.zip']
+hazard_nuker = ['https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip', 'HazardNuker.zip']
+mercurial = ['https://github.com/NightfallGT/Mercurial-Grabber/archive/refs/heads/master.zip', 'MercurialGrabber.zip']
+
+#Rats
+nj_rat_old = ['https://cdn.discordapp.com/attachments/873870469592412240/889512626395168829/njRAT_v0.7d.zip', 'njRAT.zip']
+mixo = ['https://github.com/Klapity/Mixo-Rat/archive/refs/heads/main.zip', 'Mixo-Rat.zip']
+remcos = ['https://cdn.discordapp.com/attachments/873870469592412240/889512467380699188/remcos-v3.2.1.zip', 'Remcos-Rat.zip']
+andro_rat = ['https://github.com/karma9874/AndroRAT/archive/refs/heads/master.zip', 'Andro-Rat.zip']
+metasploit = ['https://github.com/rapid7/metasploit-framework/archive/refs/heads/master.zip', 'Metasploit.zip']
+quasar = ['https://github.com/quasar/Quasar/archive/refs/heads/master.zip', 'Quasar.zip']
+stitch = ['https://github.com/nathanlopez/Stitch/archive/refs/heads/master.zip', 'Stitch.zip']
+pyshell = ['https://github.com/knassar702/pyshell/archive/refs/heads/master.zip', 'PyShell.zip']
+
+#Injectors
+xtrm_inj = ['https://github.com/master131/ExtremeInjector/archive/refs/heads/master.zip', 'Extreme-Injector.zip']
+xenoum_inj = ['https://github.com/Klapity/Xenoum-Injector/archive/refs/heads/main.zip', 'Xenoum-Injector.zip']
+
+#OSINT/Target Info Gathering
+snuz = ['https://github.com/Klapity/Snuz/archive/refs/heads/main.zip', 'Snuz.zip']
+sherlock = ['https://github.com/Klapity/sherlock/archive/refs/heads/main.zip', 'Sherlock.zip']
+ult_dork = ['https://github.com/jaxBCD/Ultimate-Dork/archive/refs/heads/master.zip', 'UltimateDork.zip']
+nmap = ['https://github.com/nmap/nmap/archive/refs/heads/master.zip', 'Nmap.zip']
+dracnmap = ['https://github.com/screetsec/Dracnmap/archive/refs/heads/master.zip', 'DracNmap.zip']
+xerosploit = ['https://github.com/LionSec/xerosploit/archive/refs/heads/master.zip', 'XeroSploit.zip']
+red_hawk = ['https://github.com/Tuhinshubhra/RED_HAWK/archive/refs/heads/master.zip', 'RedHawk.zip']
+reconspider = ['https://github.com/bhavsec/reconspider/archive/refs/heads/master.zip', 'ReconSpider.zip']
+infoga = ['https://github.com/m4ll0k/Infoga/archive/refs/heads/master.zip', 'Infoga.zip']
+recondog = ['https://github.com/s0md3v/ReconDog/archive/refs/heads/master.zip', 'ReconDog.zip']
+striker = ['https://github.com/s0md3v/Striker/archive/refs/heads/master.zip', 'Striker.zip']
+rang3r = ['https://github.com/floriankunushevci/rang3r/archive/refs/heads/master.zip', 'Rang3r.zip']
+breacher = ['https://github.com/s0md3v/Breacher/archive/refs/heads/master.zip', 'Breacher.zip']
+bulk_extractor = ['https://github.com/simsong/bulk_extractor/archive/refs/heads/main.zip', 'BulkExtractor.zip']
+social_mapper = ['https://github.com/Greenwolf/social_mapper/archive/refs/heads/master.zip', 'Social-Mapper.zip']
+finduser = ['https://github.com/xHak9x/finduser/archive/refs/heads/master.zip', 'FindUser.zip']
+socialscan = ['https://github.com/iojw/socialscan/archive/refs/heads/master.zip', 'SocialScan.zip']
+
+#Payload Creation
+thefatrat = ['https://github.com/screetsec/TheFatRat/archive/refs/heads/master.zip', 'TheFatRat.zip']
+brutal = ['https://github.com/screetsec/Brutal/archive/refs/heads/master.zip', 'Brutal.zip']
+msfpc = ['https://github.com/g0tmi1k/msfpc/archive/refs/heads/master.zip', 'MSFPC.zip']
+venom = ['https://github.com/r00t-3xp10it/venom/archive/refs/heads/master.zip', 'Venom.zip']
+mob_droid = ['https://github.com/kinghacker0/Mob-Droid/archive/refs/heads/master.zip', 'Mod-Droid.zip']
+enigma = ['https://github.com/UndeadSec/Enigma/archive/refs/heads/master.zip', 'Enigma.zip']
+
+#Wordlist Generator
+cupp = ['https://github.com/Mebus/cupp/archive/refs/heads/master.zip', 'Cupp.zip']
+wlcreator = ['https://github.com/Z4nzu/wlcreator/archive/refs/heads/master.zip', 'WLCreator.zip']
+goblinwordgen = ['https://github.com/UndeadSec/GoblinWordGenerator/archive/refs/heads/master.zip', 'GoblinWordGen.zip']
+smwyg = ['https://github.com/Viralmaniar/SMWYG-Show-Me-What-You-Got/archive/refs/heads/master.zip', 'SMWYG.zip']
+
+#Wireless attack tools
+wifipumpkin = ['https://github.com/P0cL4bs/wifipumpkin3/archive/refs/heads/dev.zip','Wifi-Pumpkin3.zip']
+pixiewps = ['https://github.com/wiire-a/pixiewps/archive/refs/heads/master.zip', 'Pixie-WPS.zip']
+bluepot = ['https://github.com/andrewmichaelsmith/bluepot/archive/refs/heads/master.zip', 'BluePot.zip']
+fluxion = ['https://github.com/thehackingsage/fluxion/archive/refs/heads/master.zip', 'Fluxion.zip']
+wifiphisher = ['https://github.com/wifiphisher/wifiphisher/archive/refs/heads/master.zip', 'Wifi-Phisher.zip']
+wifite = ['https://github.com/derv82/wifite2/archive/refs/heads/master.zip', 'Wifite.zip']
+fakeap = ['https://github.com/Z4nzu/fakeap/archive/refs/heads/master.zip', 'Fake-AP.zip']
+fastssh = ['https://github.com/Z4nzu/fastssh/archive/refs/heads/master.zip', 'Fast-SSH.zip']
+
+#SQL Injection tools
+sqlmap = ['https://github.com/Z4nzu/fastssh/archive/refs/heads/master.zip', 'SQL-Map.zip']
+nosqlmap = ['https://github.com/codingo/NoSQLMap/archive/refs/heads/master.zip', 'No-SQL-Map.zip']
+dsss = ['https://github.com/stamparm/DSSS/archive/refs/heads/master.zip', 'DSSS.zip']
+explo = ['https://github.com/telekom-security/explo/archive/refs/heads/master.zip', 'Explo.zip']
+blisqy = ['https://github.com/JohnTroony/Blisqy/archive/refs/heads/master.zip', 'Blisqy.zip']
+leviathan = ['https://github.com/utkusen/leviathan/archive/refs/heads/master.zip', 'Leviathan.zip']
+sqlscan = ['https://github.com/Cvar1984/sqlscan/archive/refs/heads/dev.zip', 'https://github.com/Cvar1984/sqlscan/archive/refs/heads/dev.zip']
+
+#Anonymously hiding shit
+kali_anonsurf = ['https://github.com/Und3rf10w/kali-anonsurf/archive/refs/heads/master.zip', 'AnonSurf.zip']
+multitor = ['https://github.com/trimstray/multitor/archive/refs/heads/master.zip', 'MultiTor.zip']
+
+#DDOS/Pinger Shit
+xpinger = ['https://github.com/Klapity/XPinger/archive/refs/heads/main.zip', 'XPinger.zip']
+uhoic = ['https://github.com/Klapity/UHOIC/archive/refs/heads/main.zip', 'UHOIC.zip']
+hoic = ['https://github.com/cybort/HOIC/archive/refs/heads/master.zip', 'HOIC.zip']
+loic = ['https://sourceforge.net/projects/loic/files/latest/download', 'LOIC.zip']
+xoic = ['https://cdn.discordapp.com/attachments/873870852398137404/960530560126681148/XOIC.zip', 'XOIC.zip']
+hammer = ['https://github.com/cyweb/hammer/archive/refs/heads/master.zip', 'Hammer.zip']
+mhddos = ['https://github.com/MatrixTM/MHDDoS/archive/refs/heads/main.zip', 'MHDDOS.zip']
+udp_unicorn = ['https://cdn.discordapp.com/attachments/873870852398137404/960522320382947358/UDP-Unicorn.zip', 'UDP-Unicorn.zip']
+unicorn_udp_flooder = ['https://github.com/M0NsTeRRR/UnicornUDPFlooder/archive/refs/heads/master.zip', 'UDP-Flooder.zip']
+hulk = ['https://github.com/grafov/hulk/archive/refs/heads/master.zip', 'HULK.zip']
+ddosim = ['https://cdn.discordapp.com/attachments/873870852398137404/960531212538089543/DDOSIM.zip', 'DDOSIM.zip']
+torshammer = ['https://github.com/Karlheinzniebuhr/torshammer/archive/refs/heads/master.zip', 'Tors-Hammer.zip']
+asyncrone = ['https://github.com/fatihsnsy/aSYNcrone/archive/refs/heads/master.zip', 'AsyncRone.zip']
+ufonet = ['https://github.com/epsylon/ufonet/archive/refs/heads/master.zip', 'UfoNet.zip']
+goldeneye = ['https://github.com/jseidl/GoldenEye/archive/refs/heads/master.zip', 'GoldenEye.zip']
+
+#Web Attack Tools
+web2attack = ['https://github.com/santatic/web2attack/archive/refs/heads/master.zip', 'Web2Attack.zip']
+sublist3r = ['https://github.com/aboul3la/Sublist3r/archive/refs/heads/master.zip', 'Sublist3r.zip']
+checkurl = ['https://github.com/UndeadSec/checkURL/archive/refs/heads/master.zip', 'CheckURL.zip']
+blazy = ['https://github.com/s0md3v/Blazy/archive/refs/heads/master.zip', 'Blazy.zip']
+takeover = ['https://github.com/m4ll0k/takeover/archive/refs/heads/master.zip', 'TakeOver.zip']
+dirb = ['https://gitlab.com/kalilinux/packages/dirb/-/archive/kali/master/dirb-kali-master.zip', 'Dirb-Kali.zip']
+
+#Password Cracking/Phishing
+gmail_hack = ['https://github.com/adrijano/Gmail-Hack/archive/refs/heads/main.zip', 'Gmail-Hack.zip']
+zphisher = ['https://github.com/htr-tech/zphisher/archive/refs/heads/master.zip', 'ZPhisher.zip']
+social_box = ['https://github.com/samsesh/SocialBox-Termux/archive/refs/heads/master.zip', 'SocialBox-Termux.zip']
+mask_phish = ['https://github.com/jaykali/maskphish/archive/refs/heads/master.zip', 'MaskPhish.zip']
+setoolkit = ['https://github.com/trustedsec/social-engineer-toolkit/archive/refs/heads/master.zip', 'SEToolKit.zip']
+socialfish = ['https://github.com/UndeadSec/SocialFish/archive/refs/heads/master.zip', 'SocialFish.zip']
+evilginx2 = ['https://github.com/kgretzky/evilginx2/archive/refs/heads/master.zip', 'evilginx2.zip']
+i_see_you = ['https://github.com/Viralmaniar/I-See-You/archive/refs/heads/master.zip', 'I-See-You.zip']
+saycheese = ['https://github.com/hangetzzu/saycheese/archive/refs/heads/master.zip', 'SayCheese.zip']
+ohmyqr = ['https://github.com/cryptedwolf/ohmyqr/archive/refs/heads/master.zip', 'OhMyQR.zip']
+shellphish = ['https://github.com/An0nUD4Y/shellphish/archive/refs/heads/master.zip', 'ShellPhish.zip']
+blackphish = ['https://github.com/iinc0gnit0/BlackPhish/archive/refs/heads/master.zip', 'BlackPhish.zip']
+instabrute = ['https://github.com/iinc0gnit0/RVuln/archive/refs/heads/master.zip', 'InstaBrute.zip']
+mass_brute = ['https://github.com/Matrix07ksa/Brute_Force/archive/refs/heads/master.zip', 'Mass_Bruter.zip']
+underhanded = ['https://github.com/jakuta-tech/underhanded/archive/refs/heads/master.zip', 'UnderHanded.zip']
+
+#Android Hacking
+keydroid = ['https://github.com/F4dl0/keydroid/archive/refs/heads/master.zip', 'KeyDroid.zip']
+mysms = ['https://github.com/papusingh2sms/mysms/archive/refs/heads/master.zip', 'MySMS.zip']
+lockphish = ['https://github.com/JasonJerry/lockphish/archive/refs/heads/master.zip', 'LockPhish.zip']
+wishfish = ['https://github.com/kinghacker0/WishFish/archive/refs/heads/master.zip', 'WishFish.zip']
+evilapp = ['https://github.com/Ro9ueAdmin/EvilApp/archive/refs/heads/master.zip', 'EvilApp.zip']
+hatcloud = ['https://github.com/HatBashBR/HatCloud/archive/refs/heads/master.zip', 'HatCloud.zip']
+
+#IDN Homograph Attack
+evilurl = ['https://github.com/UndeadSec/EvilURL/archive/refs/heads/master.zip', 'EvilURL.zip']
+
+#Email Verify tools
+knockmail = ['https://github.com/4w4k3/KnockMail/archive/refs/heads/master.zip', 'KnockMail.zip']
+
+#Hash cracking tools
+hash_buster = ['https://github.com/s0md3v/Hash-Buster/archive/refs/heads/master.zip', 'Hash-Buster.zip']
+
+#WiFi Deauthenticate
+wifijammer_ng = ['https://github.com/MisterBianco/wifijammer-ng/archive/refs/heads/wifijammer-ng.zip', 'WifiJammer-NG.zip']
+kawaii_deauther = ['https://github.com/aryanrtm/KawaiiDeauther/archive/refs/heads/master.zip', 'Kawaii-Deauther.zip']
+
+#Post Exploitation tools
+vegile = ['https://github.com/screetsec/Vegile/archive/refs/heads/master.zip', 'Vegile.zip']
+hera_keylogger = ['https://github.com/UndeadSec/HeraKeylogger/archive/refs/heads/master.zip', 'HeraKeylogger.zip']
+
+#Exploit Framework
+routersploit = ['https://github.com/threat9/routersploit/archive/refs/heads/master.zip', 'RouterSploit.zip']
+websploit = ['https://github.com/The404Hacking/websploit/archive/refs/heads/master.zip', 'WebSploit.zip']
+commix = ['https://github.com/commixproject/commix/archive/refs/heads/master.zip', 'Commix.zip']
+
+#Reverse Engineering tools
+androguard = ['https://github.com/androguard/androguard/archive/refs/heads/master.zip', 'AndroGuard.zip']
+apk2gold = ['https://github.com/lxdvs/apk2gold/archive/refs/heads/master.zip', 'Apk2Gold.zip']
+jadx = ['https://github.com/skylot/jadx/archive/refs/heads/master.zip', 'JadX.zip']
+
+#XSS Attack Tools
+dalfox = ['https://github.com/hahwul/dalfox/archive/refs/heads/main.zip', 'DalFox.zip']
+xss_loader = ['https://github.com/capture0x/XSS-LOADER/archive/refs/heads/master.zip', 'XSS-Loader.zip']
+extended_xss_search = ['https://github.com/Damian89/extended-xss-search/archive/refs/heads/master.zip', 'XSS-Search.zip']
+xspear = ['https://github.com/hahwul/XSpear/archive/refs/heads/master.zip', 'XSpear.zip']
+xsscon = ['https://github.com/menkrep1337/XSSCon/archive/refs/heads/master.zip', 'XSSCon.zip']
+xanxss = ['https://github.com/Ekultek/XanXSS/archive/refs/heads/master.zip', 'XanXSS.zip']
+xsstrike = ['https://github.com/s0md3v/XSStrike/archive/refs/heads/master.zip', 'XSStrike.zip']
+rvuln = ['https://github.com/iinc0gnit0/RVuln/archive/refs/heads/master.zip', 'RVuln.zip']
+
+#Payload Injectors
+debinject = ['https://github.com/UndeadSec/Debinject/archive/refs/heads/master.zip', 'DebInject.zip']
+pixload = ['https://github.com/chinarulezzz/pixload/archive/refs/heads/master.zip', 'PixLoad.zip']
+
+#Web Scraping/Crawling
+gospider = ['https://github.com/jaeles-project/gospider/archive/refs/heads/master.zip', 'GoSpider.zip']
+
+#Other
+the_bond = ['https://github.com/Deadshot0x7/007-TheBond/archive/refs/heads/master.zip', 'TheBond.zip']
+all_in_one = ['https://github.com/Z4nzu/hackingtool/archive/refs/heads/master.zip', 'AllInOne.zip']
+feditor = ['https://github.com/Klapity/FEditor/archive/refs/heads/main.zip', 'FEditor.zip']
